@@ -1,5 +1,5 @@
 div {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 .box1 {
     color: white;
@@ -10,6 +10,7 @@ div {
 }
 .box3 {
     background-color: silver;
+    color: black;
 }
 .box4 {
     background-color: red;
