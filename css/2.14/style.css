@@ -1,21 +1,15 @@
 body {
-    margin: 0%;
+    font-family: sans-serif;
 }
 .box {
     display: flex;
 }
-.box1 {
-    background-color: gray;
-    width: 50%;
-}
 .box2 {
     background-color: silver;
-    position: fixed; left: 50%;
+    height: 598px;
+    width: 50%;
 }
 .box3 {
     background-color: whitesmoke;
-    position: fixed; left: 50%;
-    position: fixed; top: 50%;
-    height: 50%;
     width: 50%;
 }
