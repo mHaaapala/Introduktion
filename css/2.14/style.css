@@ -1,18 +1,19 @@
 body {
     margin: 0%;
 }
-.box1 {
+.box {
     display: flex;
+}
+.box1 {
     background-color: gray;
-    font-family: sans-serif;
+    width: 50%;
 }
 .box2 {
-    background-color: slategray;
-    padding: 50px;
+    background-color: silver;
+    position: fixed; left: 50%;
 }
 .box3 {
-    background-color: lightgray;
-    padding: 50px;
+    background-color: whitesmoke;
     position: fixed; left: 50%;
     position: fixed; top: 50%;
     height: 50%;
