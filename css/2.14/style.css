@@ -1,0 +1,20 @@
+body {
+    margin: 0%;
+}
+.box1 {
+    display: flex;
+    background-color: gray;
+    font-family: sans-serif;
+}
+.box2 {
+    background-color: slategray;
+    padding: 50px;
+}
+.box3 {
+    background-color: lightgray;
+    padding: 50px;
+    position: fixed; left: 50%;
+    position: fixed; top: 50%;
+    height: 50%;
+    width: 50%;
+}
