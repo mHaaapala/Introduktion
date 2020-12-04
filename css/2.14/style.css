@@ -1,12 +1,12 @@
 body {
     font-family: sans-serif;
+    margin: 0%;
 }
 .box {
     display: flex;
 }
 .box2 {
     background-color: silver;
-    height: 598px;
     width: 50%;
 }
 .box3 {
