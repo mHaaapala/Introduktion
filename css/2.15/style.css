@@ -1,6 +1,7 @@
-body {
+.body{
+    margin: 0%;
 }
-.box1 {
+.parent {
     background-color: blue;
-    color: blue;
+    height: 33.33vh;
 }
