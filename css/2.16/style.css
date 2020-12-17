@@ -1,6 +1,7 @@
 a {
     text-decoration:solid;
     color: purple;
+    font-size: large;
 }
 a:hover {
     color: purple;
