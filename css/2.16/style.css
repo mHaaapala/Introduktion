@@ -1,0 +1,8 @@
+a {
+    text-decoration:solid;
+    color: purple;
+}
+a:hover {
+    color: purple;
+    text-decoration: underline;
+}
