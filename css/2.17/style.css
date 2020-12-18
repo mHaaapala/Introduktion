@@ -1,3 +1,10 @@
-.button {
-    border: 2px solid red;
+a {
+    border: 1px solid red;
+    border-radius: 250px;
+    color: black;
+    text-decoration: solid;
+}
+a:hover {
+    background-color: red;
+    color: white;
 }
